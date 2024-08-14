@@ -1,0 +1,35 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "14.0.4",
+    "@syncfusion/ej2-base": "26.1.35",
+    "@syncfusion/ej2-buttons": "26.1.35",
+    "@syncfusion/ej2-documenteditor": "26.1.35",
+    "@syncfusion/ej2-grids": "26.1.35",
+    "@syncfusion/ej2-lists": "26.1.35",
+    "@syncfusion/ej2-navigations": "26.1.35",
+    "@syncfusion/ej2-react-base": "26.1.35",
+    "@syncfusion/ej2-react-buttons": "26.1.35",
+    "@syncfusion/ej2-react-calendars": "26.1.35",
+    "@syncfusion/ej2-react-grids": "26.1.35",
+    "@syncfusion/ej2-react-popups": "26.1.35",
+    "@syncfusion/ej2-splitbuttons": "26.1.35",
+    "@types/node": "20.10.7",
+    "@types/react": "18.2.47",
+    "@types/react-dom": "18.2.18",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.0.4",
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.3.3"
+  }
+}
